@@ -29,6 +29,10 @@
     --chart-3: 197 37% 24%;
     --chart-4: 43 74% 66%;
     --chart-5: 27 87% 67%;
+
+    /* LaborLink Finance Brand Colors */
+    --navy: 210 100% 14%; /* #002147 */
+    --platinum: 60 4% 90%; /* #E5E4E2 */
   }
 
   .dark {
